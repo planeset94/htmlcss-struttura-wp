@@ -10,3 +10,20 @@
     display: table;
 }
 
+header{
+    border:2px solid black;
+
+}
+
+.main_container{
+    width: 80%;
+    margin: auto;
+}
+.logo{
+    height: 50px;
+    background-color: #73dca6;
+}
+.links {
+    height: 100px;
+    background-color: #7575dc;
+}
