@@ -19,6 +19,11 @@ header{
     width: 80%;
     margin: auto;
 }
+.container{
+    height: 800px;
+    width: 100%;
+    border: 2px dotted rgb(68, 0, 255);
+}
 .logo{
     height: 50px;
     background-color: #73dca6;
@@ -26,4 +31,17 @@ header{
 .links {
     height: 100px;
     background-color: #7575dc;
+}
+main.photo{
+width: 100%;
+height: 400px;
+float: left;
+background-color: rgb(199, 120, 120);
+
+}
+div.title{
+    width: 100%;
+    height: 100px;
+    float: left;
+    background-color: lightgray;
 }
